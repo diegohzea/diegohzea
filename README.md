@@ -4,10 +4,8 @@
 
 ### I like programming in general more specfically multiplatform mobile programming; previously worked with ionic, react native and actually working with flutter
 
-
 * 🌍  I'm based in Colombia
 * 🧠  I'm learning english, I am also spending free time to learn react for web development
-
 
 <p align="center"><img  src="./img.gif" width="500" height="350"/></p>
 
@@ -28,6 +26,14 @@
 |![alt mysignature](5.jpg "Title")|![alt mysignature](6.jpg "Title")|![alt mysignature](1.jpg "Title")|
 
 * PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.signature_app>
+
+### QR scanner
+
+|   |   |   |
+|---|---|---|
+|![alt QR scanner](7.jpg "Title")|![alt QR scanner](8.jpg "Title")|![alt QR scanner](9.jpg "Title")|
+
+* PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.qr_scan_app>
 
 ## Languages and Tools
 
