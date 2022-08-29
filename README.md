@@ -7,31 +7,31 @@
 * 🌍  I'm based in Colombia
 * 🧠  I'm learning english, I am also spending free time to learn react for web development
 
-<p align="center"><img  src="./img.gif" width="500" height="350"/></p>
+<p align="center"><img  src="./img.gif" width="450" height="370"/></p>
 
 ## Personal projects
 
 ### Music player z
 
-|   |   |   |
-|---|---|---|
-|![alt mysignature](2.jpg "Title")|![alt mysignature](3.jpg "Title")|![alt mysignature](4.jpg "Title")|
+<img src="2.jpg" style="height: 40%; width:30%;"/>
+<img src="3.jpg" style="height: 40%; width:30%;"/>
+<img src="4.jpg" style="height: 40%; width:30%;"/>
 
 * PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.music_playerz>
 
 ### My Signature
 
-|   |   |   |
-|---|---|---|
-|![alt mysignature](5.jpg "Title")|![alt mysignature](6.jpg "Title")|![alt mysignature](1.jpg "Title")|
+<img src="5.jpg" style="height: 40%; width:30%;"/>
+<img src="6.jpg" style="height: 40%; width:30%;"/>
+<img src="1.jpg" style="height: 40%; width:30%;"/>
 
 * PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.signature_app>
 
 ### QR scanner
 
-|   |   |   |
-|---|---|---|
-|![alt QR scanner](7.jpg "Title")|![alt QR scanner](8.jpg "Title")|![alt QR scanner](9.jpg "Title")|
+<img src="7.jpg" style="height: 40%; width:30%;"/>
+<img src="8.jpg" style="height: 40%; width:30%;"/>
+<img src="9.jpg" style="height: 40%; width:30%;"/>
 
 * PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.qr_scan_app>
 
