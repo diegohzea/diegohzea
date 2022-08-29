@@ -24,9 +24,9 @@
 ### My Signature
 
 <div style="flex:1;flex-direction:row;">
-<img src="5.jpg" style="height: 40%; width:20%;"/>
-<img src="6.jpg" style="height: 40%; width:20%;"/>
-<img src="1.jpg" style="height: 40%; width:20%;"/>
+<img src="5.jpg" style="height: 40%; width:30%;"/>
+<img src="6.jpg" style="height: 40%; width:30%;"/>
+<img src="1.jpg" style="height: 40%; width:30%;"/>
 </div>
 
 * PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.signature_app>
@@ -34,9 +34,9 @@
 ### QR scanner
 
 <div style="flex:1;flex-direction:row;">
-<img src="7.jpg" style="height: 40%; width:20%;"/>
-<img src="8.jpg" style="height: 40%; width:20%;"/>
-<img src="9.jpg" style="height: 40%; width:20%;"/>
+<img src="7.jpg" style="height: 40%; width:30%;"/>
+<img src="8.jpg" style="height: 40%; width:30%;"/>
+<img src="9.jpg" style="height: 40%; width:30%;"/>
 </div>
 
 * PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.qr_scan_app>
