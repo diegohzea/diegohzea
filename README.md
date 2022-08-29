@@ -13,25 +13,25 @@
 
 ### Music player z
 
-<img src="2.jpg" style="height: 40%; width:30%;"/>
-<img src="3.jpg" style="height: 40%; width:30%;"/>
-<img src="4.jpg" style="height: 40%; width:30%;"/>
+<img src="2.jpg" style="height: 40%; width:20%;"/>
+<img src="3.jpg" style="height: 40%; width:20%;"/>
+<img src="4.jpg" style="height: 40%; width:20%;"/>
 
 * PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.music_playerz>
 
 ### My Signature
 
-<img src="5.jpg" style="height: 40%; width:30%;"/>
-<img src="6.jpg" style="height: 40%; width:30%;"/>
-<img src="1.jpg" style="height: 40%; width:30%;"/>
+<img src="5.jpg" style="height: 40%; width:20%;"/>
+<img src="6.jpg" style="height: 40%; width:20%;"/>
+<img src="1.jpg" style="height: 40%; width:20%;"/>
 
 * PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.signature_app>
 
 ### QR scanner
 
-<img src="7.jpg" style="height: 40%; width:30%;"/>
-<img src="8.jpg" style="height: 40%; width:30%;"/>
-<img src="9.jpg" style="height: 40%; width:30%;"/>
+<img src="7.jpg" style="height: 40%; width:20%;"/>
+<img src="8.jpg" style="height: 40%; width:20%;"/>
+<img src="9.jpg" style="height: 40%; width:20%;"/>
 
 * PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.qr_scan_app>
 
