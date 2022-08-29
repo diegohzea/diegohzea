@@ -4,10 +4,12 @@
 
 ### I like programming in general more specfically multiplatform mobile programming; previously worked with ionic, react native and actually working with flutter
 
+<img  src="./my-dash.png" style="height: 20%; width:20%;">
+
 * 🌍  I'm based in Colombia
 * 🧠  I'm learning english, I am also spending free time to learn react for web development
 
-<p align="center"><img  src="./img.gif" width="450" height="370"/></p>
+<p align="center"> <img  src="./img.gif" style="height: 40%; width:45%;"></p>
 
 ## Personal projects
 
