@@ -1,48 +1,135 @@
-# Hi 👋, I'm Diego Zea
+# Hi there, I'm Diego Zea 👋
 
-## A passionate mobile developer from Colombia
+### Mobile & Web developer from Colombia 🇨🇴
 
-### I like programming in general more specfically multiplatform mobile programming; previously worked with ionic, react native and actually working with flutter
+I build cross-platform mobile apps (Flutter, Kotlin, previously Ionic/React Native) and modern web apps with **React + TypeScript + Firebase**, applying multi-tenant SaaS patterns (Tailwind, atomic Firestore writes, role-based route guards).
 
-<img  src="./my-dash.png" style="height: 20%; width:20%;">
+- 🌍 Based in Colombia
+- 🟢 Open to work — looking for new opportunities
+- 📱 Shipped apps on Google Play: [Descúbrelo](https://play.google.com/store/apps/details?id=com.requiemz.fake_it_game_app) · [Firmar PDF](https://play.google.com/store/apps/details?id=com.requiemz.signature_app) · [Gastos Rápidos](https://play.google.com/store/apps/details?id=com.requiemz.bills_manager) · [QR scanner](https://play.google.com/store/apps/details?id=com.requiemz.qr_scan_app)
+- 💬 Ask me about: Flutter, React, Firebase, mobile release pipelines (Play Store)
 
-* 🌍  I'm based in Colombia
-* 🧠  I'm learning english, I am also spending free time to learn react for web development
+<br/>
 
-<p align="center"> <img  src="./img.gif" style="height: 40%; width:45%;"></p>
+## 🧰 Languages & Tools
 
-## Personal projects
+**Mobile**
 
-### Music player z
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,cs,dotnet" alt="Mobile stack: Flutter, Dart, Kotlin, Java, Android Studio, C#, .NET" />
 
-<div style="flex:1;flex-direction:row;">
-<img src="2.jpg" style="height: 40%; width:30%;"/>
-<img src="3.jpg" style="height: 40%; width:30%;"/>
-<img src="4.jpg" style="height: 40%; width:30%;"/>
-</div>
+**Web**
 
-* PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.music_playerz>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nodejs" alt="Web stack: React, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap, Node.js" />
 
-### My Signature
+**Backend & Databases**
 
-<div style="flex:1;flex-direction:row;">
-<img src="5-1.jpg" style="height: 40%; width:30%;"/>
-<img src="6.jpg" style="height: 40%; width:30%;"/>
-<img src="1.jpg" style="height: 40%; width:30%;"/>
-</div>
+<img src="https://skillicons.dev/icons?i=python,django,flask,firebase,mongodb,mysql,postgres,sqlite" alt="Backend stack: Python, Django, Flask, Firebase, MongoDB, MySQL, PostgreSQL, SQLite" />
 
-* PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.signature_app>
+**Tools & Cloud**
 
-### QR scanner
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,heroku,postman,nginx" alt="Tools: Git, GitHub, Docker, GCP, Heroku, Postman, Nginx" />
 
-<div style="flex:1;flex-direction:row;">
-<img src="7.jpg" style="height: 40%; width:30%;"/>
-<img src="8.jpg" style="height: 40%; width:30%;"/>
-<img src="9.jpg" style="height: 40%; width:30%;"/>
-</div>
+<br/>
 
-* PlayStore <https://play.google.com/store/apps/details?id=com.requiemz.qr_scan_app>
+## 📊 GitHub Stats
 
-## Languages and Tools
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diegohzea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diego's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohzea&layout=compact&theme=tokyonight&hide_border=true" alt="Diego's top languages" />
+</p>
 
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="60" height="60"/> </a> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=diegohzea&theme=tokyonight&hide_border=true" alt="Diego's GitHub streak" />
+</p>
+
+<br/>
+
+## 📱 Featured Projects
+
+### Descúbrelo
+
+Party game — find the impostor before it finds you.
+
+<p float="left">
+  <img src="fakeit_1.webp" height="320" alt="Descúbrelo screenshot - voting round" />
+  <img src="fakeit_2.webp" height="320" alt="Descúbrelo screenshot - category selection" />
+  <img src="fakeit_3.webp" height="320" alt="Descúbrelo screenshot - gameplay" />
+</p>
+
+[Play Store ↗](https://play.google.com/store/apps/details?id=com.requiemz.fake_it_game_app)
+
+### Firmar PDF – Firma fácil
+
+Sign documents and PDFs in seconds.
+
+<p float="left">
+  <img src="signature_1.webp" height="320" alt="Firmar PDF screenshot - document with signature" />
+  <img src="signature_2.webp" height="320" alt="Firmar PDF screenshot" />
+  <img src="signature_3.webp" height="320" alt="Firmar PDF screenshot" />
+</p>
+
+[Play Store ↗](https://play.google.com/store/apps/details?id=com.requiemz.signature_app)
+
+### Gastos Rápidos – Control
+
+Track your spending and see where your money goes.
+
+<p float="left">
+  <img src="bills_1.webp" height="320" alt="Gastos Rápidos screenshot - monthly spending" />
+  <img src="bills_2.webp" height="320" alt="Gastos Rápidos screenshot" />
+  <img src="bills_3.webp" height="320" alt="Gastos Rápidos screenshot" />
+</p>
+
+[Play Store ↗](https://play.google.com/store/apps/details?id=com.requiemz.bills_manager)
+
+### QR Scanner
+
+Scan QR and barcodes instantly, save and organize links.
+
+<p float="left">
+  <img src="qr_1.webp" height="320" alt="QR Scanner screenshot" />
+  <img src="qr_2.webp" height="320" alt="QR Scanner screenshot" />
+  <img src="qr_3.webp" height="320" alt="QR Scanner screenshot" />
+</p>
+
+[Play Store ↗](https://play.google.com/store/apps/details?id=com.requiemz.qr_scan_app)
+
+<br/>
+
+## 🌐 Web Projects
+
+### A&MA Planeta Azul S.A.S
+
+React site built for an environmental consulting firm (air quality, noise & emissions monitoring) in Boyacá, Colombia.
+
+[planetaazulsas.co ↗](https://planetaazulsas.co/)
+
+### Portfolio
+
+My personal portfolio site.
+
+[manty-2ec22.web.app ↗](https://manty-2ec22.web.app/)
+
+<br/>
+
+## 📦 Open Source
+
+**overlay_pop_up** — Flutter plugin to show draggable overlay pop-ups on top of other apps on Android, even while running in the background. Swipe-to-dismiss and bidirectional messaging between the overlay and the main app.
+
+[![pub package](https://img.shields.io/pub/v/overlay_pop_up.svg)](https://pub.dev/packages/overlay_pop_up) [![pub points](https://img.shields.io/pub/points/overlay_pop_up)](https://pub.dev/packages/overlay_pop_up) [![likes](https://img.shields.io/pub/likes/overlay_pop_up)](https://pub.dev/packages/overlay_pop_up)
+
+<p align="center">
+  <img src="overlay_pop_up_demo.gif" width="40%" alt="overlay_pop_up demo - draggable overlay on top of another app" />
+</p>
+
+<br/>
+
+## 📫 Let's connect
+
+<!-- TODO: agrega aquí tu LinkedIn / email si quieres mostrarlos públicamente -->
+
+- 💼 Portfolio: [manty-2ec22.web.app](https://manty-2ec22.web.app/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diegohzea&style=flat&color=blue" alt="profile views" />
+</p>
