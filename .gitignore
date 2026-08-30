@@ -1,0 +1,13 @@
+# Android build artifacts (not part of the profile README, way too heavy for this repo)
+android/
+
+# Claude Code session folder
+.claude/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
