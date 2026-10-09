@@ -1,13 +1,14 @@
 # Hi there, I'm Diego Zea 👋
 
-### Mobile & Web developer from Colombia 🇨🇴
+### Senior Mobile & Frontend Engineer — Flutter · React Native · React/TypeScript 🇨🇴
 
-I build cross-platform mobile apps (Flutter, Kotlin, previously Ionic/React Native) and modern web apps with **React + TypeScript + Firebase**, applying multi-tenant SaaS patterns (Tailwind, atomic Firestore writes, role-based route guards).
+6+ years shipping production apps. For 4 years at **Picap** I built the Flutter and React Native apps used by **2M+ active users** across Latin America, released on Google Play, App Store and Huawei AppGallery. On the web I build **React + TypeScript + Firebase** apps, including a multi-tenant SaaS of my own.
 
-- 🌍 Based in Colombia
-- 🟢 Open to work — looking for new opportunities
-- 📱 Shipped apps on Google Play: [Descúbrelo](https://play.google.com/store/apps/details?id=com.requiemz.fake_it_game_app) · [Firmar PDF](https://play.google.com/store/apps/details?id=com.requiemz.signature_app) · [Gastos Rápidos](https://play.google.com/store/apps/details?id=com.requiemz.bills_manager) · [QR scanner](https://play.google.com/store/apps/details?id=com.requiemz.qr_scan_app)
-- 💬 Ask me about: Flutter, React, Firebase, mobile release pipelines (Play Store)
+- 🌍 Based in Colombia (UTC-5), working remotely
+- 🟢 **Open to work** — mobile or frontend roles, full-stack welcome
+- 📦 Author of [overlay_pop_up](https://pub.dev/packages/overlay_pop_up), a Flutter plugin with native Kotlin code (160/160 pub points)
+- 📱 Personal apps on Google Play: [Descúbrelo](https://play.google.com/store/apps/details?id=com.requiemz.fake_it_game_app) · [Firmar PDF](https://play.google.com/store/apps/details?id=com.requiemz.signature_app) · [Gastos Rápidos](https://play.google.com/store/apps/details?id=com.requiemz.bills_manager) · [QR scanner](https://play.google.com/store/apps/details?id=com.requiemz.qr_scan_app) · [Manty](https://play.google.com/store/apps/details?id=com.requiemz.manty) · [Bubble Bot](https://play.google.com/store/apps/details?id=com.requiemz.bubble_bot)
+- 💬 Ask me about: Flutter, React Native, React, Firebase, native Android/HMS, app store releases
 
 <br/>
 
@@ -126,9 +127,9 @@ My personal portfolio site.
 
 ## 📫 Let's connect
 
-<!-- TODO: agrega aquí tu LinkedIn / email si quieres mostrarlos públicamente -->
-
 - 💼 Portfolio: [manty-2ec22.web.app](https://manty-2ec22.web.app/)
+- 🔗 LinkedIn: [diego-harvey-zea-noy](https://www.linkedin.com/in/diego-harvey-zea-noy-519a591a6/)
+- ✉️ Email: [dzea96.cgo@gmail.com](mailto:dzea96.cgo@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diegohzea&style=flat&color=blue" alt="profile views" />
